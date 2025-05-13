@@ -29,7 +29,7 @@ while True:
 
             todos = functions.get_todos()
             index = todos.index(todo_to_edit)
-            todos[index] = new_todo + "\n"
+            todos[index] = new_todo 
             functions.write_todos(todos)
             window["todos"].update(values=todos)
         case "todos":

@@ -1,3 +1,4 @@
+backup/
 backup/bonus6.py
 backup/bonus9-if.py
 backup/bonus11-Funct.py
@@ -21,3 +22,5 @@ members.txt
 presentation.txt
 report.txt
 __pycache__/functions.cpython-313.pyc
+backup/bonus16-GUI.py
+backup/zip_creator.py

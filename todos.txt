@@ -1,12 +1,10 @@
 awake again
 bath
- again
- again
+Sleep again
+Type again
 learn python
 edit member
 add functions
-default parameters
-
-Test
 Update Todo
 Test python GUI
+Add test
