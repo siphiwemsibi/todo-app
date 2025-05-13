@@ -1,0 +1,6 @@
+awake
+bath
+learn python
+edit member
+add functions
+default parameters
