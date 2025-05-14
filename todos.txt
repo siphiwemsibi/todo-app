@@ -1,10 +1,7 @@
 awake again
-bath
 Sleep again
-Type again
 learn python
 edit member
 add functions
 Update Todo
 Test python GUI
-Add test
