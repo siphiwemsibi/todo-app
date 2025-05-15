@@ -1,5 +1,4 @@
 awake again
-Sleep again
 learn python
 edit member
 add functions
