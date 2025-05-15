@@ -1,7 +1,3 @@
-awake again
 learn python
 edit member
 add functions
-Update Todo
-Test python GUI
-Test web app
